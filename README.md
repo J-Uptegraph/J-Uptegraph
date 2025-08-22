@@ -1,6 +1,6 @@
 # **Hi, I'm Johnathan a Robotics and Mechatronics Engineer**  
 
-***"I build systems that thrive under pressure—and scale with purpose."***
+***"I build systems that thrive under pressure-and scale with purpose."***
 
 
 I see robotics as both a **science and an art**—where **engineering meets creative problem-solving**. I think like an **engineer** and develop like a **designer**, creating systems that **perform under pressure** and **are designed to scale with purpose**. With over **two years of experience** deploying **50+ robots** across **$25M+ installations** in **EV, medical, and defense sectors**, I specialize in solutions that **launch fast, scale efficiently, and adapt to real-world constraints**.
